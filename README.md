@@ -46,4 +46,4 @@ making more interpretable and explainable.
 **Notebook1_relAI-** This notebook explores Projected Gradient Descent (PGD) and TRADES (TRadeoff-inspired Adversarial DEfense via Surrogate-loss) defenses for 
 adversarial-attacks-resistant Neural Networks.
 
-**Notebook2_relAI-** This notebook explores Targeted and untargeted Fast Gradient Sign Method (FGSM) attacks on pre-trained Neural Networks.
+
